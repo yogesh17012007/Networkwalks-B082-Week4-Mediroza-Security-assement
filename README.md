@@ -211,7 +211,7 @@ Web Application
 
 ---
 
-📁 Repository Structure
+```📁 Repository Structure
 
 mediroza-hospital-pentest/
 │
@@ -238,7 +238,7 @@ mediroza-hospital-pentest/
 └── Documentation/
     └── Penetration-Testing-Report.docx
 
----
+```
 
 📄 Documentation
 
