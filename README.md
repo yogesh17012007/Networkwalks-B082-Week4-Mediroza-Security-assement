@@ -30,6 +30,8 @@ within the authorized environment.
 
 Following successful access, three protected PDF lab reports were
 retrieved.
+<img width="1920" height="982" alt="login" src="https://github.com/user-attachments/assets/fda43a64-5df3-4ddd-b06e-dd7a22b59f26" />
+
 
 ### M2 – PDF Password Security Assessment
 
@@ -43,6 +45,13 @@ password-security assessment.
 
 All three PDF passwords were successfully recovered during the
 exercise.
+<img width="1920" height="982" alt="pdf1" src="https://github.com/user-attachments/assets/1de3b270-7c57-4d53-873a-99879b12e886" />
+<img width="1920" height="982" alt="pdf1_pass" src="https://github.com/user-attachments/assets/b93ed2c4-c170-41c8-a24c-9b6956e739ce" />
+<img width="1920" height="982" alt="pdf2" src="https://github.com/user-attachments/assets/4691dd81-ff81-4e96-a41a-773ab6b94210" />
+<img width="1920" height="982" alt="pdf2_pass" src="https://github.com/user-attachments/assets/4bd744cf-67f1-41f8-8013-01ca53146111" />
+<img width="1920" height="982" alt="pdf3" src="https://github.com/user-attachments/assets/c6438c55-baec-4313-893d-75c878595f68" />
+<img width="1920" height="982" alt="pdf3_pass" src="https://github.com/user-attachments/assets/6db47b4e-0a8b-458e-a853-e366b4c1806b" />
+
 
 ### M3 – Database Discovery
 
@@ -54,6 +63,7 @@ staff and shareholder information.
 
 The relevant results were documented separately in the M3 Excel
 evidence file.
+<img width="911" height="291" alt="M3-share-holders" src="https://github.com/user-attachments/assets/5b38c237-8100-4472-a0af-a0e0af4cd437" />
 
 ### M4 – Final Report
 
