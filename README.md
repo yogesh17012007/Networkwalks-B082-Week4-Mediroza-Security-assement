@@ -101,3 +101,5 @@ environment for educational purposes.
 
 No unauthorized systems should be tested using the techniques
 described in this repository.
+[MEDIROZA_FINAL_PENETRATION_TESTING_REPORT.docx](https://github.com/user-attachments/files/31920049/MEDIROZA_FINAL_PENETRATION_TESTING_REPORT.docx)
+
